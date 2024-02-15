@@ -1,0 +1,5 @@
+venv
+midi
+utils/generated
+.idea
+LSTMmodel.h5
